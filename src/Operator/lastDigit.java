@@ -9,6 +9,7 @@ class lastDigit {
         int n = sc.nextInt();
 
         // code here
+        //Math.abs() converts it to positive
         System.out.println(Math.abs(n % 10));
     }
 }
