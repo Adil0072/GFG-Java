@@ -11,7 +11,6 @@ class doWhile {
             i++;
         }while(i < n);
     }
-
     static void main() {
         printGeeks();
     }

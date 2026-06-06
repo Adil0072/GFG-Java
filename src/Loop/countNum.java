@@ -1,5 +1,4 @@
 package Loop;
-
 import java.util.Scanner;
 
 public class countNum {
@@ -16,7 +15,6 @@ public class countNum {
 
         return count;
     }
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
